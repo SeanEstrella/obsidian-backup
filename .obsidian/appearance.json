@@ -1,0 +1,18 @@
+{
+  "accentColor": "",
+  "translucency": true,
+  "showViewHeader": true,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "icons",
+    "left-align-math",
+    "supercharged-links-gen"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": true
+}

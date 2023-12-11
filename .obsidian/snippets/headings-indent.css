@@ -1,0 +1,29 @@
+.HyperMD-header-1 ~ .cm-line, /* Editing View */
+.el-h1 ~ * /* Reading View */
+{
+    text-indent: 1.5em;
+}
+
+.HyperMD-header-2 ~ .cm-line, /* Editing View */
+.el-h2 ~ * /* Reading View */
+{
+    text-indent: 3em;
+}
+
+.HyperMD-header-3 ~ .cm-line, /* Editing View */
+.el-h3 ~ * /* Reading View */
+{
+    text-indent: 4.5em;
+}
+
+.HyperMD-header-4 ~ .cm-line, /* Editing View */
+.el-h4 ~ * /* Reading View */
+{
+    text-indent: 6em;
+}
+
+.HyperMD-header-5 ~ .cm-line, /* Editing View */
+.el-h5 ~ * /* Reading View */
+{
+    text-indent: 7.5em;
+}

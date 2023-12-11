@@ -1,0 +1,55 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "map",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:Templates/Note Template.md",
+      "icon": "arrow-down",
+      "name": "Templater: Insert Templates/Note Template.md",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "highlightr-plugin:highlighter-plugin-menu",
+      "icon": "highlightr-pen",
+      "name": "Highlightr: Open Highlightr",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "map",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "20",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

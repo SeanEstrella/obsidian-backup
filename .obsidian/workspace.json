@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "b728a20900b2a5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfbe1cfb4b3e2b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a5ee1c878206ae4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Courses.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faba4b85500b77d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c09ef1efca308a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4b6cdd631022c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9486460567078b29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "font",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7958219178658cb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "153fd66a1a0d4771",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8aca26f9fa5b11b7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f59c8d829dd459d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "2c6bac4d6cb0c600",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8ea1024ce1c781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdef94ae33e5a33a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "University Courses.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae6b654e71098771",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University Courses.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "513038af8d1c33e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "188d0a85c6b9a408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University Courses.md"
+              }
+            }
+          },
+          {
+            "id": "c92c5448ac6ae4d9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "741e0f0b38e6bcaf",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b897239c06371bbd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "7a5ee1c878206ae4",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-11 01.19.44.excalidraw.md",
+    "University Courses.md",
+    "University Vault.md",
+    "Excalidraw/Drawing 2023-12-11 00.58.02.excalidraw.md",
+    "BUS 310.md",
+    "CPE 315 Final Study Guide.md",
+    "CPE 315.md",
+    "Excalidraw/Drawing 2023-12-10 23.47.38.excalidraw.md",
+    "CH 4.5 An Overview of Pipelining.md",
+    "Excalidraw",
+    "Context/#computer-science.mdb",
+    "2023-12-10.md",
+    "Untitled 1.canvas",
+    "2023-12-09.md",
+    "Spaces/Home",
+    "Spaces",
+    "Covers/ComputerArchitecturePipelinesCover.png",
+    "Covers/Purple Sky Profile Header.png",
+    "Covers",
+    "HW3 (5.4.2, 5.4.3).md",
+    "CSC 349.md",
+    "CSC 349 Quiz 4.md",
+    "Pasted image 20231207092818.png",
+    "CPE 357.md",
+    "Quiz 4.md",
+    "CPE 357 - 11 - UNIX Processes.md",
+    "CPE 357 - 12 - Interprocess Communication.md",
+    "CSC 349 11-09-23 Lecture Notes.md",
+    "Dynamic Programming.md",
+    "Optimal Substructure.md",
+    "Optimal Solution.md",
+    "Overlapping Subproblems.md",
+    "Tree.md",
+    "BUS 310 11-09-23 Lecture.md",
+    "Pasted image 20231106152539.png",
+    "High Memory.md",
+    "Pasted image 20231103034750.png",
+    "Pasted image 20231103034623.png",
+    "Pasted image 20231016163012.png",
+    "CPE 357 - 06 - Tools",
+    "CPE 357 - 06 - Tools ",
+    "IMG_53DE7E2F8C4C-1.jpeg",
+    "Pasted image 20231005135929.png",
+    "Pasted image 20231005135857.png",
+    "Untitled.canvas",
+    "Context/#mathematics.mdb",
+    "context.mdb",
+    "Images"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "minimal-style@@h1-size": "2em",
+  "minimal-style@@h2-size": "1.5em",
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": false,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-tabular": true,
+  "minimal-style@@table-numbers": true,
+  "minimal-style@@table-nowrap": false,
+  "minimal-style@@row-hover": true,
+  "minimal-style@@trim-cols": true,
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-style@@table-row-background-hover@@light": "#0000000F",
+  "minimal-style@@table-row-background-hover@@dark": "#00000000",
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@ribbon-style": "ribbon-bottom-left-hover",
+  "minimal-style@@sidebar-lines-off": true,
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-wide",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@cursor": "default"
+}
